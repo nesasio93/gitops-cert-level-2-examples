@@ -6,3 +6,4 @@ certification workshops (Level 2)
 Take the certification yourself at https://codefresh.io/courses/get-gitops-certified/
 
 test
+test2
